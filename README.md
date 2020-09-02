@@ -1,5 +1,5 @@
 # Unsplash API - Infinite Scroll
-This application utilizes the Unsplash API to retrieve pictures, and has an infinite scroll effect that was created using JavaScript. The user can scroll down and pictures will continue to load in the background.
+This application utilizes the Unsplash API to retrieve pictures, and has an infinite scroll effect that was created using JavaScript. The user can scroll down and pictures will continue to load in the background. The Unsplash API is in DEMO mode so only 50 requests can be made per hour to the API.
 
 ## Links
 
